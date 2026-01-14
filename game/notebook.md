@@ -12,13 +12,15 @@
 ## Weapons
 - [ ] Paint Brush
 - [X] Bronze Trophy
-- [ ] Kitchen Knife
+- [X] Kitchen Knife
 - [X] Crystal Vase
 - [X] Walking Stick
 - [X] Old Key
 - [X] Steel Ruler
 - [X] Silver Watch
 - [X] Leather Gloves
+- [X] Magnifying Glass
+- [X] Fountain Pen
 
 ## Notes
 *Use this space to record your findings and deductions...*
