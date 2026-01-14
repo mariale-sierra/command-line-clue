@@ -16,6 +16,9 @@
 - [X] Crystal Vase
 - [X] Walking Stick
 - [X] Old Key
+- [X] Steel Ruler
+- [X] Silver Watch
+- [X] Leather Gloves
 
 ## Notes
 *Use this space to record your findings and deductions...*
