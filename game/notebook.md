@@ -8,6 +8,7 @@
 - [X] The Gardener
 - [X] The Clockmaker
 - [X] The Journalist
+- [X] The Postman
 
 ## Weapons
 - [ ] Paint Brush
